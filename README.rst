@@ -1,6 +1,6 @@
 need this because of https://github.com/pypi/warehouse/issues/9404
 
-wanted a quick fork because 1.12.0 wasn't available yet and creating a fork from main until that exists.
+wanted a quick fork because wanted https://github.com/sqlalchemy/alembic/commit/dbdec2661b8a01132ea3f7a027f85fed2eaf5e54 and 1.12.0 wasn't available yet and creating a fork from main until that exists.
 
 Alembic is a database migrations tool written by the author
 of `SQLAlchemy <http://www.sqlalchemy.org>`_.  A migrations tool
